@@ -1,6 +1,6 @@
-# BlumTod Auto Claim Bot
+# Blum Auto Claim Bot
 
-A simple Python bot to automate BlumTod token claiming using account queries.
+A simple Python bot to automate Blum token claiming using account queries.
 
 ---
 
@@ -60,11 +60,15 @@ Usage
 
 
 
-```python bot.py```
+```bash
+python bot.py
+```
 
 or on Linux:
 
-```python3 bot.py```
+```bash
+python3 bot.py
+```
 
 
 ---
@@ -73,7 +77,7 @@ Credits
 
 Shared by itsmesatyavir
 
-Developer akasakaid
+Developer [akasakaid](https://github.com/akasakaid)
 
 Telegram: https://t.me/itsmesatyavir
 
