@@ -21,23 +21,27 @@ A simple Python bot to automate BlumTod token claiming using account queries.
 git clone https://github.com/itsmesatyavir/blumtod
 cd blumtod
 python -m pip install -r requirements.txt
+```
+---
+### Linux
 
-Linux
-
+```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip git -y
 git clone https://github.com/itsmesatyavir/blumtod
 cd blumtod
 python3 -m pip install -r requirements.txt
+```
+---
+###Termux (Android)
 
-Termux (Android)
-
+```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
 git clone https://github.com/itsmesatyavir/blumtod
 cd blumtod
 pip install -r requirements.txt
-
+```
 
 ---
 
@@ -56,11 +60,11 @@ Usage
 
 
 
-python bot.py
+```python bot.py```
 
 or on Linux:
 
-python3 bot.py
+```python3 bot.py```
 
 
 ---
