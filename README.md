@@ -33,7 +33,7 @@ cd blumtod
 python3 -m pip install -r requirements.txt
 ```
 ---
-###Termux (Android)
+### Termux (Android)
 
 ```bash
 pkg update && pkg upgrade -y
