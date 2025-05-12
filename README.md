@@ -72,8 +72,11 @@ or on Linux:
 Credits
 
 Shared by itsmesatyavir
+
 Developer akasakaid
+
 Telegram: https://t.me/itsmesatyavir
+
 Channel: https://t.me/forestarmy
 
 
