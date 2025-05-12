@@ -436,7 +436,7 @@ async def main():
     banner = f"""
 {magenta}┏┓┳┓┏┓  ┏┓    •      {white}BlumTod Auto Claim for {green}blum
 {magenta}┗┓┃┃┗┓  ┃┃┏┓┏┓┓┏┓┏╋  {green}Author : {white}AkasakaID
-{magenta}┗┛┻┛┗┛  ┣┛┛ ┗┛┃┗ ┗┗  {white}Github : {green}https://github.com/AkasakaID
+{magenta}┗┛┻┛┗┛  ┣┛┛ ┗┛┃┗ ┗┗  {white}Github : {green}https://github.com/itsmesatyavir 
 {magenta}              ┛      {green}Note : {white}Every Action Has a Consequence
         """
     arg = argparse.ArgumentParser()
